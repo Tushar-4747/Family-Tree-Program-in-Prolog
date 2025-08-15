@@ -1,0 +1,14 @@
+:- [family].
+
+% Query examples:
+% 1. Find John's children
+% ?- children_of(john, Children).
+
+% 2. Who is Mary's mother?
+% ?- mother(M, mary).
+
+% 3. Who are Alice's siblings?
+% ?- siblings(alice, Sibling).
+
+% 4. List all fathers
+% ?- father(F, _).
